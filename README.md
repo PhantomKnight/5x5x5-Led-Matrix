@@ -64,15 +64,19 @@ After installing the two components you can finish soldering power and ground th
 
 The end-product would look something like this... I made the mistake of cutting some of my wires a little short.
 
-I decided to combine the ground connections on the on/off switch and power on the barrel connector. <br/>
+~~I decided to combine the ground connections on the on/off switch and power on the barrel connector. 
+
 bare wire = pin #0 (NeoPixel signal in)<br/>
 yellow = power (BAT pin)<br/>
 black = ground<br/>
+
 ~~If everything checks-out, glue the base cover in place and lets pump some electrons through this thing!~~
 <img src="https://learn.adafruit.com/system/assets/assets/000/016/697/medium800/led_pixels_IMG_2103.jpg?1400467979"/>
 
 ## Example Code
-<br/><br/>
+
+For quick testing of your new cube you can run the 'strandtest' example code provided by the Adafruit_Neopixel library
+
 <hr/>
 
 ## Credits
