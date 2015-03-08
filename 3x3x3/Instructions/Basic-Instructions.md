@@ -1,4 +1,4 @@
-# 5x5x5-Led-Matrix
+# 3x3x3-Led-Matrix
 <b>Build a 3D Led Matrix of your own!</b>
 <img src="https://learn.adafruit.com/system/guides/images/000/000/586/medium800/neo_cube.jpg?1400136365"/>
 <hr/>
@@ -9,7 +9,7 @@
 <hr/>
 
 ## Tools and Materials
-* <a href="http://www.adafruit.com/product/1734">125 x Thru-hole NeoPixels (if you get 130 you'll have spares in case you need them)</a>
+* <a href="http://www.adafruit.com/product/1734">30 x Thru-hole NeoPixels (if you get 130 you'll have spares in case you need them)</a>
 * <a href="http://www.adafruit.com/product/1501">Trinket 5V<a/>
 * <a href="http://www.adafruit.com/product/276">5V 2A power supply</a>
 * <a href="http://www.adafruit.com/product/1683">On/Off Power button</a>
@@ -25,8 +25,8 @@
 
 ## 3D Printed base
 The base was designed to serve as a soldering template as well as a case for your electronics. It is required in the next steps so please print this first!
-<img src="https://learn.adafruit.com/system/assets/assets/000/016/614/medium800/led_pixels_5x5x5_cube.png?1400140281"/>
-<b><a href="https://learn.adafruit.com/system/assets/assets/000/016/618/original/5x5x5_Cube_Base.zip?1400186891">Download STL files</a></b>
+<img src="https://learn.adafruit.com/system/assets/assets/000/016/615/medium800/led_pixels_3x3x3_cube.png?1400140310"/>
+<b><a href="https://learn.adafruit.com/system/assets/assets/000/016/617/original/3x3x3_Cube_Base.zip?1400186741">Download STL files</a></b>
 <hr/>
 
 ## Wiring Layout
@@ -36,7 +36,7 @@ Each of the LEDs has 4 legs and a flat side. Getting these pins right is critica
 Now begin assembling the diagram below using the base we printed earlier as a reference and to hold the LEDs in place. Make sure the flat side of the LED matches the diagram below. 
 <img src="https://learn.adafruit.com/system/assets/assets/000/016/619/medium800/led_pixels_adafruit_diagram.png?1400223434"/>
 <br/>
-After following the diagram above you should have something that resembles this (Please note this is a photo of the 3x3x3 version).
+After following the diagram above you should have something that resembles this.
 <img src="https://learn.adafruit.com/system/assets/assets/000/016/621/medium800/led_pixels_IMG_2046.jpg?1400224939"/>
 <hr> 
 
